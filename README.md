@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## [![SHAMEIII-MWOL](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+SHAMEIII-MWOL+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![SHAMEIII-MWOL](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+SHAMEIII-MWOL+WA+Bot+repo;Created+by+Rizwan+jr;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
