@@ -1,7 +1,7 @@
 
 <a href="https://bit.ly/3koZRGY"><img src="shameii mwol.jpg" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
+        
 </p>
 
 <div align="center">
