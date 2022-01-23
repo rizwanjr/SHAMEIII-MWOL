@@ -69,7 +69,7 @@ Click SHAMEIII-MWOL logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://replit.com/@SHAMEIII-MWOLcreator/SHAMEIII-MWOL-QR)](https://replit.com/@SHAMEIII-MWOLcreator/SHAMEIII-MWOL-QR)
+[![Run on Repl.it](https://heroku.com/deploy?template=https://github.com/rizwan-jr/pikachu.git)](https://replit.com/@SHAMEIII-MWOLcreator/SHAMEIII-MWOL-QR)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/rizwanjr/SHAMEIII-MWOL.git)
      </div>
